@@ -50,7 +50,7 @@ TBD
 
 ## Licensing
 
-This research project is disseminated under the MIT License. 
+This research project is disseminated under the MIT License.
 
 ## Acknowledgements and References
 
