@@ -56,5 +56,5 @@ This research project is disseminated under the MIT License.
 
 - Dataset procured from TBD.
 - Model adaptation based on TBD.
-- Further readings and inspirations(TBD):
+- Further readings and inspirations: TBD
   
