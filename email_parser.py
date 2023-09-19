@@ -48,3 +48,4 @@ df_emails = pd.DataFrame(parsed_emails, columns=['From', 'To', 'Subject', 'Body'
 # Save the DataFrame to a CSV file
 df_emails.to_csv('parsed_emails.csv', index=False)
 
+
